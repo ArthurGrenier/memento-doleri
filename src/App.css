@@ -1,0 +1,132 @@
+* {
+	box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+	margin: 0;
+	min-height: 100%;
+}
+
+body {
+	font-family: "JetBrains Mono", monospace;
+	background: #080b1a;
+}
+
+.page {
+	position: relative;
+	min-height: 100vh;
+	overflow: hidden;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.background {
+	position: absolute;
+	z-index: 0;
+	inset: -100px;
+
+	background: radial-gradient(
+			circle at 20% 30%,
+			rgb(1 141 166 / 0.8),
+			transparent 35%
+	),
+	radial-gradient(
+			circle at 80% 25%,
+			rgb(97 49 143 / 0.8),
+			transparent 35%
+	),
+	radial-gradient(
+			circle at 50% 85%,
+			rgb(140 42 90 / 0.7),
+			transparent 40%
+	),
+	linear-gradient(
+			135deg,
+			#111827,
+			#312e81,
+			#0f172a
+	);
+
+	filter: blur(45px);
+	transform: scale(1.1);
+}
+
+.page::after {
+	content: "";
+	position: absolute;
+	z-index: 1;
+	inset: 0;
+	background: rgba(4, 7, 20, 0.25);
+}
+
+.hero {
+	position: relative;
+	z-index: 2;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 32px;
+	color: white;
+	text-align: center;
+}
+
+.hero h1 {
+	margin: 0;
+
+	font-size: clamp(1rem, 5vw, 2rem);
+	font-weight: bold;
+	text-shadow: 0 4px 25px rgba(0, 0, 0, 0.35);
+}
+
+h2 {
+	margin: 0;
+
+	font-size: clamp(1rem, 5vw, 2rem);
+	font-weight: bold;
+	text-shadow: 0 4px 25px rgba(0, 0, 0, 0.35);
+}
+
+.start-button {
+	padding: 16px 30px;
+	border: 1px solid rgba(255, 255, 255, 0.35);
+	border-radius: 999px;
+
+	color: white;
+	background: rgba(255, 255, 255, 0.14);
+
+	font: inherit;
+	font-size: 1rem;
+	font-weight: 600;
+
+	cursor: pointer;
+	backdrop-filter: blur(12px);
+
+	box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25),
+	inset 0 1px 0 rgba(255, 255, 255, 0.2);
+
+	transition: transform 0.2s ease,
+	background 0.2s ease,
+	box-shadow 0.2s ease;
+}
+
+.start-button:hover {
+	background: rgba(255, 255, 255, 0.25);
+	transform: translateY(-3px);
+
+	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35),
+	inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.start-button:active {
+	transform: translateY(0);
+}
+
+.start-button:focus-visible {
+	outline: 3px solid rgba(255, 255, 255, 0.8);
+	outline-offset: 4px;
+}

@@ -1,0 +1,142 @@
+.settings-page {
+	position: relative;
+	min-height: 100vh;
+	overflow: hidden;
+
+	display: flex;
+	flex-direction: column;
+
+	color: white;
+	background: #080b1a;
+}
+
+.settings-content {
+	position: relative;
+	z-index: 2;
+	order: 1;
+	flex: 1;
+
+	width: min(600px, calc(100% - 32px));
+	margin: 0 auto;
+	padding: 100px 0 40px;
+}
+
+.settings-content h1 {
+	margin: 0 0 40px;
+
+	font-size: clamp(2.5rem, 8vw, 5rem);
+	text-align: center;
+}
+
+.setting-box {
+
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	border-radius: 20px;
+	background: rgba(255, 255, 255, 0.14);
+
+	backdrop-filter: blur(14px);
+	-webkit-backdrop-filter: blur(14px);
+}
+
+/* Ligne contenant le texte et le toggle */
+.setting-row {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 24px;
+
+	padding: 20px 24px;
+
+}
+
+/* Toggle */
+.switch {
+	position: relative;
+	flex: 0 0 auto;
+
+	display: inline-block;
+	width: 54px;
+	height: 30px;
+}
+
+.switch input {
+	position: absolute;
+	width: 0;
+	height: 0;
+	opacity: 0;
+}
+
+.slider {
+	position: absolute;
+	inset: 0;
+
+	cursor: pointer;
+	border-radius: 999px;
+	background: rgba(255, 255, 255, 0.28);
+
+	transition: background 0.25s ease;
+}
+
+.slider::before {
+	content: "";
+
+	position: absolute;
+	left: 4px;
+	bottom: 4px;
+
+	width: 22px;
+	height: 22px;
+
+	border-radius: 50%;
+	background: white;
+
+	transition: transform 0.25s ease;
+}
+
+.switch input:checked + .slider {
+	background: #8b5cf6;
+}
+
+.switch input:checked + .slider::before {
+	transform: translateX(24px);
+}
+
+/*select, ::picker(select) {*/
+/*	appearance: base;*/
+/*}*/
+
+.language-select {
+	appearance: base-select;
+	padding: 10px 14px;
+	border: 1px solid rgba(255, 255, 255, 0.35);
+	border-radius: 10px;
+
+	color: white;
+	background: rgba(255, 255, 255, 0.14);
+
+	font: inherit;
+	cursor: pointer;
+	outline: none;
+}
+
+select::picker-icon {
+	transition: 0.4s rotate;
+}
+
+select:open::picker-icon {
+	rotate: 180deg;
+}
+
+::picker(select) {
+	transition: all 0.4s allow-discrete;
+}
+
+.language-select:focus {
+	border-color: #8b5cf6;
+	box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.3);
+}
+
+.language-select option {
+	color: white;
+	background: #563998;
+}
