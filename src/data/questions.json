@@ -1,0 +1,2115 @@
+[
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Are SQUATS a...",
+        "options": [
+          {
+            "a": "Compound exercise"
+          },
+          {
+            "b": "Isolation exercise"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Les SQUATS sont...",
+        "options": [
+          {
+            "a": "Un exercice polyarticulaire"
+          },
+          {
+            "b": "Un exercice d'isolation"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Muscle soreness is...",
+        "options": [
+          {
+            "a": "Required for growth"
+          },
+          {
+            "b": "Not required for growth"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Les courbatures sont...",
+        "options": [
+          {
+            "a": "Obligatoires pour la croissance musculaire"
+          },
+          {
+            "b": "Pas obligatoires pour la croissance musculaire"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Even with \"clean\" foods, you can still gain fat in a...",
+        "options": [
+          {
+            "a": "Calorie surplus"
+          },
+          {
+            "b": "Calorie deficit"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Même avec des aliments \"sains\", on peut prendre du gras avec...",
+        "options": [
+          {
+            "a": "Un surplus calorique"
+          },
+          {
+            "b": "Un déficit calorique"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Eating after 9 p.m. makes fat gain more likely...",
+        "options": [
+          {
+            "a": "True"
+          },
+          {
+            "b": "False"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Manger après 21 h augmente la probabilité de prendre du gras...",
+        "options": [
+          {
+            "a": "Vrai"
+          },
+          {
+            "b": "Faux"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Going from 8 hours to 5 hours of sleep makes recovery and appetite...",
+        "options": [
+          {
+            "a": "Better"
+          },
+          {
+            "b": "Worse"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Passer de 8 h à 5 h de sommeil rend la récupération et l'appétit...",
+        "options": [
+          {
+            "a": "Meilleurs"
+          },
+          {
+            "b": "Moins bons"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Progressive overload means...",
+        "options": [
+          {
+            "a": "Doing the same workout forever"
+          },
+          {
+            "b": "Improving over time"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "La surcharge progressive veut dire...",
+        "options": [
+          {
+            "a": "Faire le même entraînement pour toujours"
+          },
+          {
+            "b": "Progresser avec le temps"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which is more accurate for hypertrophy training?",
+        "options": [
+          {
+            "a": "You don't need to reach failure to grow"
+          },
+          {
+            "b": "You must reach failure on every set"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle affirmation est la plus juste concernant l'entraînement en hypertrophie ?",
+        "options": [
+          {
+            "a": "Il n'est pas nécessaire d'aller jusqu'à l'échec pour progresser"
+          },
+          {
+            "b": "Il faut aller jusqu'à l'échec à chaque série"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which type of food is easier to overconsume?",
+        "options": [
+          {
+            "a": "Liquid calories"
+          },
+          {
+            "b": "Plain vegetables"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel type d'aliment est le plus facile à surconsommer ?",
+        "options": [
+          {
+            "a": "Les calories liquides"
+          },
+          {
+            "b": "Les légumes nature"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "For better sleep, stop consuming caffeine roughly...",
+        "options": [
+          {
+            "a": "6–8 hours before bed"
+          },
+          {
+            "b": "30 minutes before bed"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Pour mieux dormir, il vaut mieux arrêter de consommer de la caféine environ...",
+        "options": [
+          {
+            "a": "6 à 8 h avant le coucher"
+          },
+          {
+            "b": "30 min avant le coucher"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Calories from drinks count...",
+        "options": [
+          {
+            "a": "Toward your total calorie intake"
+          },
+          {
+            "b": "Less than calories from food"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Les calories liquides comptent...",
+        "options": [
+          {
+            "a": "Autant que les autres calories"
+          },
+          {
+            "b": "Moins que les autres calories"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "For training programs, the most important factor is...",
+        "options": [
+          {
+            "a": "Consistency"
+          },
+          {
+            "b": "Attention to every program detail"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Dans un programme d'entraînement, le plus important est...",
+        "options": [
+          {
+            "a": "La régularité"
+          },
+          {
+            "b": "La minutie du programme"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which is more supportive of muscle retention during a cut?",
+        "options": [
+          {
+            "a": "Higher protein intake"
+          },
+          {
+            "b": "Higher carbohydrate intake"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Comment mieux préserver sa masse musculaire pendant un régime ?",
+        "options": [
+          {
+            "a": "Avoir un apport élevé en protéines"
+          },
+          {
+            "b": "Avoir un apport élevé en glucides"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which tends to help maintain a consistent sleep schedule more?",
+        "options": [
+          {
+            "a": "A consistent wake-up time"
+          },
+          {
+            "b": "A consistent bedtime"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle est la meilleure façon d'avoir un sommeil régulier ?",
+        "options": [
+          {
+            "a": "Avoir une heure de lever fixe"
+          },
+          {
+            "b": "Avoir une heure de coucher fixe"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which is more likely to build bigger delts in most lifters?",
+        "options": [
+          {
+            "a": "Direct delt work plus compound movements"
+          },
+          {
+            "b": "Using compound movements only"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Pour la plupart des sportifs, quelle est la meilleure façon de développer ses deltoïdes ?",
+        "options": [
+          {
+            "a": "Des exercices spécifiques pour les deltoïdes et des exercices polyarticulaires"
+          },
+          {
+            "b": "Des exercices polyarticulaires uniquement"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which tends to be more filling per calorie?",
+        "options": [
+          {
+            "a": "Baked potatoes"
+          },
+          {
+            "b": "Peanut butter"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel aliment est le plus rassasiant par calorie ?",
+        "options": [
+          {
+            "a": "Les pommes de terre"
+          },
+          {
+            "b": "Le beurre de cacahuète"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which is more likely to support hard training 1–3 hours later?",
+        "options": [
+          {
+            "a": "A meal consisting mostly of carbohydrates and protein"
+          },
+          {
+            "b": "A meal consisting mostly of fat and fiber"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel type de repas permet de mieux supporter un entraînement intense 1 à 3 h plus tard ?",
+        "options": [
+          {
+            "a": "Un repas composé principalement de glucides et de protéines"
+          },
+          {
+            "b": "Un repas composé principalement de lipides et de fibres"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which is generally more effective for increasing your lift performance?",
+        "options": [
+          {
+            "a": "Practicing the lift regularly"
+          },
+          {
+            "b": "Building the muscles without practicing the lift"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle méthode est généralement la plus efficace pour progresser sur un exercice ?",
+        "options": [
+          {
+            "a": "Pratiquer régulièrement l'exercice"
+          },
+          {
+            "b": "Entraîner uniquement les muscles concernés sans pratiquer l'exercice"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "Which generally matters more for fat loss?",
+        "options": [
+          {
+            "a": "Keeping insulin low throughout the day"
+          },
+          {
+            "b": "Average calorie balance over time"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Qu'est-ce qui compte généralement le plus pour perdre du poids ?",
+        "options": [
+          {
+            "a": "Maintenir un faible taux d'insuline tout au long de la journée"
+          },
+          {
+            "b": "Le bilan calorique moyen au fil du temps"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 1,
+    "translation": {
+      "en": {
+        "question": "To stay healthy, it is preferable to...",
+        "options": [
+          {
+            "a": "Do light activities such as gardening or walking"
+          },
+          {
+            "b": "Lift weights"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Pour rester en bonne santé, il vaut mieux...",
+        "options": [
+          {
+            "a": "Pratiquer des activités douces comme le jardinage ou la marche"
+          },
+          {
+            "b": "Soulever des poids"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Does stretching after training greatly reduce next-day soreness?",
+        "options": [
+          {
+            "a": "Yes, significantly"
+          },
+          {
+            "b": "No, not by much"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Les étirements après l’entraînement réduisent-ils fortement les courbatures du lendemain ?",
+        "options": [
+          {
+            "a": "Oui, fortement"
+          },
+          {
+            "b": "Non, pas vraiment"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "With equal training volume, can heavy and light sets build similar muscle?",
+        "options": [
+          {
+            "a": "Yes, they can be similar"
+          },
+          {
+            "b": "No, heavy sets are always better"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "À volume d’entraînement égal, les séries lourdes et légères peuvent-elles produire une hypertrophie similaire ?",
+        "options": [
+          {
+            "a": "Oui, les résultats peuvent être similaires"
+          },
+          {
+            "b": "Non, les séries lourdes sont toujours meilleures"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "When calories match, is HFCS (High fructose corn syrup) more fattening than sugar?",
+        "options": [
+          {
+            "a": "Yes, it is uniquely fattening"
+          },
+          {
+            "b": "No, its effect is similar"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "À calories égales, le sirop de maïs riche en fructose fait-il davantage grossir que le sucre ?",
+        "options": [
+          {
+            "a": "Oui, il fait particulièrement grossir"
+          },
+          {
+            "b": "Non, l’effet est similaire"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "What is generally better for hypertrophy",
+        "options": [
+          {
+            "a": "30 seconds of rest between sets"
+          },
+          {
+            "b": "1,5-3 minutes of rest between sets"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Qu'est ce qui est le mieux dans un travail d'hypertrophie",
+        "options": [
+          {
+            "a": "30 secondes de repos entre les séries"
+          },
+          {
+            "b": "1,5 - 3 minutes de repos entre les séries"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "For heavy sweaters, is replacing 500–1,000 mg of sodium per liter helpful?",
+        "options": [
+          {
+            "a": "Yes"
+          },
+          {
+            "b": "No, 50 mg is enough"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Pour les personnes qui transpirent beaucoup, remplacer 500 à 1 000 mg de sodium par litre est-il utile ?",
+        "options": [
+          {
+            "a": "Oui"
+          },
+          {
+            "b": "Non, 50 mg suffisent"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Can cheat days erase an entire week of daily calorie deficits?",
+        "options": [
+          {
+            "a": "No, they reliably boost fat loss"
+          },
+          {
+            "b": "Yes, they can"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Les cheats meals peuvent-ils annuler une semaine entière de déficit calorique quotidien ?",
+        "options": [
+          {
+            "a": "Non, elles accélèrent toujours la perte de graisse"
+          },
+          {
+            "b": "Oui, c’est possible"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Does alcohol improve REM and deep sleep, or reduce sleep quality?",
+        "options": [
+          {
+            "a": "It improves them"
+          },
+          {
+            "b": "It reduces sleep quality"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "L’alcool améliore-t-il le sommeil paradoxal et profond, ou réduit-il sa qualité ?",
+        "options": [
+          {
+            "a": "Il les améliore"
+          },
+          {
+            "b": "Il réduit la qualité du sommeil"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "When do the most effective hypertrophy reps usually occur?",
+        "options": [
+          {
+            "a": "At the beginning of a set"
+          },
+          {
+            "b": "At the end of a set"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "À quel moment les répétitions sont-elles généralement les plus efficaces pour l’hypertrophie ?",
+        "options": [
+          {
+            "a": "Au début de la série"
+          },
+          {
+            "b": "À la fin de la série"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "What is the main benefit of controlled technique?",
+        "options": [
+          {
+            "a": "Targeting the muscle safely"
+          },
+          {
+            "b": "Ignoring physics"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel est le principal avantage d’une technique contrôlée ?",
+        "options": [
+          {
+            "a": "Cibler le muscle en toute sécurité"
+          },
+          {
+            "b": "Ignorer les lois de la physique"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which recovery habit is especially effective?",
+        "options": [
+          {
+            "a": "Random all-nighters"
+          },
+          {
+            "b": "Consistent, adequate sleep"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle habitude de récupération est particulièrement efficace ?",
+        "options": [
+          {
+            "a": "Faire régulièrement des nuits blanches"
+          },
+          {
+            "b": "Dormir suffisamment et régulièrement"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Is muscle soreness technically an injury?",
+        "options": [
+          {
+            "a": "Yes"
+          },
+          {
+            "b": "No, it is not the same as an injury"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Les courbatures sont-elles techniquement une blessure ?",
+        "options": [
+          {
+            "a": "Oui"
+          },
+          {
+            "b": "Non, ce n’est pas la même chose"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Why does a consistent sleep schedule help?",
+        "options": [
+          {
+            "a": "It helps stabilize your circadian rhythm"
+          },
+          {
+            "b": "It makes your body adapt faster to anything"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Pourquoi des horaires de sommeil réguliers sont-ils bénéfiques ?",
+        "options": [
+          {
+            "a": "Ils aident à stabiliser le rythme circadien"
+          },
+          {
+            "b": "Ils permettent au corps de s’adapter plus vite à tout"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Why can high-fiber foods make dieting easier?",
+        "options": [
+          {
+            "a": "They make you hungrier"
+          },
+          {
+            "b": "They keep you fuller"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Pourquoi les aliments riches en fibres peuvent-ils faciliter un régime ?",
+        "options": [
+          {
+            "a": "Ils augmentent la faim"
+          },
+          {
+            "b": "Ils prolongent la satiété"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "What is the main purpose of warm-up sets?",
+        "options": [
+          {
+            "a": "To prepare and practice without causing exhaustion"
+          },
+          {
+            "b": "To exhaust you before the workout"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel est le principal objectif des séries d’échauffement ?",
+        "options": [
+          {
+            "a": "Se préparer et répéter le mouvement sans s’épuiser"
+          },
+          {
+            "b": "S’épuiser avant l’entraînement"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Who is more likely to achieve body recomposition?",
+        "options": [
+          {
+            "a": "Advanced, stage-lean lifters"
+          },
+          {
+            "b": "Beginners and detrained people"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Chez qui la recomposition corporelle est-elle la plus probable ?",
+        "options": [
+          {
+            "a": "Les pratiquants avancés très secs"
+          },
+          {
+            "b": "Les débutants et les personnes désentraînées"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "What is a likely benefit of a short walk after a meal?",
+        "options": [
+          {
+            "a": "Burning all the calories from the meal"
+          },
+          {
+            "b": "Slightly improving blood sugar control"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel est un bénéfice probable d’une courte marche après un repas ?",
+        "options": [
+          {
+            "a": "Brûler toutes les calories du repas"
+          },
+          {
+            "b": "Améliorer légèrement la régulation de la glycémie"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which weekly fat-loss rate is more likely to preserve muscle?",
+        "options": [
+          {
+            "a": "0.5–1% of body weight"
+          },
+          {
+            "b": "1.5–2% of body weight"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel rythme hebdomadaire de perte de poids préserve davantage la masse musculaire ?",
+        "options": [
+          {
+            "a": "0,5 à 1 % du poids corporel"
+          },
+          {
+            "b": "1,5 à 2 % du poids corporel"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "When volume and effort are matched, which exercises are more likely to improve hypertrophy?",
+        "options": [
+          {
+            "a": "Exercises that load the target muscle"
+          },
+          {
+            "b": "Exercises in which you can lift the most weight"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "À volume et effort égaux, quels exercices favorisent davantage l’hypertrophie ?",
+        "options": [
+          {
+            "a": "Ceux qui sollicitent le muscle ciblé"
+          },
+          {
+            "b": "Ceux qui permettent de soulever le plus lourd"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which daily protein intake is more accurate for most lifters?",
+        "options": [
+          {
+            "a": "1.6–2.2 g/kg"
+          },
+          {
+            "b": "More than 3 g/kg"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel apport quotidien en protéines est le plus adapté à la plupart des pratiquants ?",
+        "options": [
+          {
+            "a": "1,6 à 2,2 g/kg"
+          },
+          {
+            "b": "Plus de 3 g/kg"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which statement about the anabolic window is more accurate?",
+        "options": [
+          {
+            "a": "It exists, but it is much wider than commonly believed"
+          },
+          {
+            "b": "It is very narrow and critically important"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle affirmation sur la fenêtre anabolique est la plus juste ?",
+        "options": [
+          {
+            "a": "Elle existe, mais elle est bien plus large qu’on ne le croit"
+          },
+          {
+            "b": "Elle est très étroite et absolument cruciale"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which blood marker may rise with anabolic steroid use and raise cardiovascular concerns?",
+        "options": [
+          {
+            "a": "Hematocrit (Hct)"
+          },
+          {
+            "b": "Fasting insulin (FI)"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel marqueur sanguin peut augmenter avec l’usage de stéroïdes anabolisants et poser un risque cardiovasculaire ?",
+        "options": [
+          {
+            "a": "L’hématocrite (Hct)"
+          },
+          {
+            "b": "L’insuline à jeun"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "What is more likely to worsen appetite regulation the next day?",
+        "options": [
+          {
+            "a": "Shorter sleep duration"
+          },
+          {
+            "b": "A small drop in daily steps"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Qu’est-ce qui risque le plus de perturber la régulation de l’appétit le lendemain ?",
+        "options": [
+          {
+            "a": "Dormir moins longtemps"
+          },
+          {
+            "b": "Réduire légèrement le nombre de pas quotidiens"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "What is more likely to reduce sleep pressure later that night?",
+        "options": [
+          {
+            "a": "A long, late-day nap"
+          },
+          {
+            "b": "A morning walk"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Qu’est-ce qui risque le plus de réduire l'envie de sommeil le soir ?",
+        "options": [
+          {
+            "a": "Une longue sieste en fin de journée"
+          },
+          {
+            "b": "Une promenade le matin"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which statement about the thermic effect of food is more accurate?",
+        "options": [
+          {
+            "a": "Protein has the highest thermic effect"
+          },
+          {
+            "b": "Carbohydrates have the highest thermic effect"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle affirmation sur l’effet thermique des aliments est la plus juste ?",
+        "options": [
+          {
+            "a": "Les protéines ont l’effet thermique le plus élevé"
+          },
+          {
+            "b": "Les glucides ont l’effet thermique le plus élevé"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which statement about effective reps is more accurate?",
+        "options": [
+          {
+            "a": "The concept is useful, but not exact"
+          },
+          {
+            "b": "The concept is perfectly exact"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quelle affirmation sur les répétitions efficaces est la plus juste ?",
+        "options": [
+          {
+            "a": "Le concept est utile, mais pas exact"
+          },
+          {
+            "b": "Le concept est parfaitement exact"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 2,
+    "translation": {
+      "en": {
+        "question": "Which issue is more relevant for enhanced athletes?",
+        "options": [
+          {
+            "a": "Sleep apnea risk"
+          },
+          {
+            "b": "Higher parasympathetic tone during sleep"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Not implemented yet"
+      },
+      "fr": {
+        "question": "Quel problème concerne davantage les athlètes sous produits dopants ?",
+        "options": [
+          {
+            "a": "Le risque d’apnée du sommeil"
+          },
+          {
+            "b": "Un tonus parasympathique plus élevé pendant le sommeil"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Pas encore implémenté"
+      }
+    }
+  },  {
+  "type": "mcq",
+  "difficulty": 3,
+  "translation": {
+    "en": {
+      "question": "Can supraphysiologic androgens cause fat loss without a calorie deficit?",
+      "options": [
+        {
+          "a": "Yes, they guarantee fat loss"
+        },
+        {
+          "b": "No, a calorie deficit is still required"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Androgens may affect body composition, but fat loss still requires an energy deficit."
+    },
+    "fr": {
+      "question": "Les androgènes supraphysiologiques permettent-ils de perdre du gras sans déficit calorique ?",
+      "options": [
+        {
+          "a": "Oui, ils garantissent une perte de gras"
+        },
+        {
+          "b": "Non, un déficit calorique reste nécessaire"
+        }
+      ],
+      "answer": "b",
+      "explanation": "Les androgènes peuvent modifier la composition corporelle, mais perdre du gras nécessite toujours un déficit énergétique."
+    }
+  }
+},
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Does static stretching before maximal lifting improve or reduce performance?",
+        "options": [
+          {
+            "a": "It improves performance"
+          },
+          {
+            "b": "It can reduce performance"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Prolonged static stretching immediately before maximal efforts can temporarily reduce force production."
+      },
+      "fr": {
+        "question": "Les étirements statiques avant un effort maximal améliorent-ils ou réduisent-ils la performance ?",
+        "options": [
+          {
+            "a": "Ils améliorent la performance"
+          },
+          {
+            "b": "Ils peuvent réduire la performance"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Des étirements statiques prolongés juste avant un effort maximal peuvent réduire temporairement la production de force."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Does EMG amplitude accurately predict muscle hypertrophy?",
+        "options": [
+          {
+            "a": "Yes, very accurately"
+          },
+          {
+            "b": "No, not very accurately"
+          }
+        ],
+        "answer": "b",
+        "explanation": "EMG amplitude does not reliably predict long-term muscle growth on its own."
+      },
+      "fr": {
+        "question": "L’amplitude de l’EMG prédit-elle précisément l’hypertrophie musculaire ?",
+        "options": [
+          {
+            "a": "Oui, très précisément"
+          },
+          {
+            "b": "Non, pas très précisément"
+          }
+        ],
+        "answer": "b",
+        "explanation": "L’amplitude de l’EMG ne permet pas, à elle seule, de prédire précisément la croissance musculaire à long terme."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Can blood-flow restriction build muscle with light loads near failure?",
+        "options": [
+          {
+            "a": "Yes, it can"
+          },
+          {
+            "b": "No, it is useless"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Blood-flow restriction can stimulate hypertrophy with light loads taken close to failure."
+      },
+      "fr": {
+        "question": "La restriction du débit sanguin peut-elle développer les muscles avec des charges légères proches de l’échec ?",
+        "options": [
+          {
+            "a": "Oui, c’est possible"
+          },
+          {
+            "b": "Non, elle est inutile"
+          }
+        ],
+        "answer": "a",
+        "explanation": "La restriction du débit sanguin peut stimuler l’hypertrophie avec des charges légères proches de l’échec."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Can hard training reduce fatigue while still improving fitness?",
+        "options": [
+          {
+            "a": "Yes, with appropriate recovery"
+          },
+          {
+            "b": "No, fatigue always prevents adaptation"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Managing training load and recovery can reduce fatigue while fitness continues to improve."
+      },
+      "fr": {
+        "question": "Un entraînement intense peut-il réduire la fatigue tout en améliorant la condition physique ?",
+        "options": [
+          {
+            "a": "Oui, avec une récupération adaptée"
+          },
+          {
+            "b": "Non, la fatigue empêche toujours l’adaptation"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Une bonne gestion de la charge et de la récupération peut réduire la fatigue tout en permettant aux adaptations de progresser."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Do deep squats grow the quadriceps more than consistently shallow squats?",
+        "options": [
+          {
+            "a": "Yes, generally"
+          },
+          {
+            "b": "No, depth makes no difference"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Greater knee flexion generally provides a stronger stimulus for quadriceps growth."
+      },
+      "fr": {
+        "question": "Les squats profonds développent-ils davantage les quadriceps que les squats toujours partiels ?",
+        "options": [
+          {
+            "a": "Oui, généralement"
+          },
+          {
+            "b": "Non, la profondeur ne change rien"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Une flexion plus importante du genou stimule généralement davantage la croissance des quadriceps."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "How do anabolic-androgenic steroids suppress testosterone production?",
+        "options": [
+          {
+            "a": "By lowering insulin and glucagon"
+          },
+          {
+            "b": "By lowering LH and FSH"
+          }
+        ],
+        "answer": "b",
+        "explanation": "They suppress the hypothalamic-pituitary-gonadal axis, reducing LH and FSH secretion."
+      },
+      "fr": {
+        "question": "Comment les stéroïdes anabolisants androgènes diminuent-ils la production de testostérone ?",
+        "options": [
+          {
+            "a": "En diminuant l’insuline et le glucagon"
+          },
+          {
+            "b": "En diminuant la LH et la FSH"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Ils inhibent l’axe hypothalamo-hypophyso-gonadique, ce qui réduit la sécrétion de LH et de FSH."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Does keto guarantee fat loss because ketones burn fat automatically?",
+        "options": [
+          {
+            "a": "Yes, ketosis guarantees it"
+          },
+          {
+            "b": "No, a calorie deficit is still needed"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Ketosis increases fat oxidation, but fat loss still depends mainly on maintaining an energy deficit."
+      },
+      "fr": {
+        "question": "Le régime cétogène garantit-il la perte de gras parce que les cétones brûlent automatiquement les graisses ?",
+        "options": [
+          {
+            "a": "Oui, la cétose la garantit"
+          },
+          {
+            "b": "Non, un déficit calorique reste nécessaire"
+          }
+        ],
+        "answer": "b",
+        "explanation": "La cétose augmente l’oxydation des graisses, mais leur perte dépend surtout du maintien d’un déficit énergétique."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which one provides all essential amino acids by itself?",
+        "options": [
+          {
+            "a": "Branched-chain amino acids"
+          },
+          {
+            "b": "Whey protein"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Whey protein is a complete protein, whereas BCAAs contain only three essential amino acids."
+      },
+      "fr": {
+        "question": "Lequel fournit à lui seul tous les acides aminés essentiels ?",
+        "options": [
+          {
+            "a": "Les acides aminés à chaîne ramifiée"
+          },
+          {
+            "b": "La whey"
+          }
+        ],
+        "answer": "b",
+        "explanation": "La protéine de lactosérum est complète, tandis que les BCAA ne contiennent que trois acides aminés essentiels."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Can hard endurance work before heavy lifting impair strength and muscle gain?",
+        "options": [
+          {
+            "a": "Yes, it can reduce performance"
+          },
+          {
+            "b": "No, it always improves strength"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Hard endurance exercise immediately beforehand can reduce lifting performance and interfere with adaptation."
+      },
+      "fr": {
+        "question": "Un effort d’endurance intense avant la musculation peut-il réduire la force et les gains musculaires ?",
+        "options": [
+          {
+            "a": "Oui, il peut réduire la performance"
+          },
+          {
+            "b": "Non, il améliore toujours la force"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Un effort d’endurance intense juste avant peut réduire la performance et perturber les adaptations musculaires."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Why can a large carb refeed rapidly increase scale weight?",
+        "options": [
+          {
+            "a": "Carbs are stored as dry fuel"
+          },
+          {
+            "b": "Glycogen is stored with water"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Glycogen storage is accompanied by water retention, which can quickly increase body weight."
+      },
+      "fr": {
+        "question": "Pourquoi une recharge importante en glucides peut-elle augmenter rapidement le poids affiché ?",
+        "options": [
+          {
+            "a": "Les glucides sont stockés sans eau"
+          },
+          {
+            "b": "Le glycogène est stocké avec de l’eau"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Le stockage du glycogène s’accompagne d’une rétention d’eau, ce qui peut augmenter rapidement le poids corporel."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "What is the approximate thermic effect of protein?",
+        "options": [
+          {
+            "a": "10–20% of its calories"
+          },
+          {
+            "b": "20–30% of its calories"
+          },
+          {
+            "c": "More than 40% of its calories"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Protein has a relatively high thermic effect, estimated at approximately 20–30% of its calories."
+      },
+      "fr": {
+        "question": "Quel est l’effet thermique approximatif des protéines ?",
+        "options": [
+          {
+            "a": "10 à 20 % de leurs calories"
+          },
+          {
+            "b": "20 à 30 % de leurs calories"
+          },
+          {
+            "c": "Plus de 40% de leurs calories"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Les protéines ont un effet thermique élevé, estimé à environ 20 à 30 % de leurs calories."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which on the these amino acid is not essential for the human body ?",
+        "options": [
+          {
+            "a": "Lysine"
+          },
+          {
+            "b": "Alanine"
+          },
+          {
+            "c": "Histidine"
+          },
+          {
+            "d": "Threonine"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Alanine is not an essential amino acid."
+      },
+      "fr": {
+        "question": "Lequel n'est pas un acide aminé essentiel pour le corp humain ?",
+        "options": [
+          {
+            "a": "Lysine"
+          },
+          {
+            "b": "Alanine"
+          },
+          {
+            "c": "Histidine"
+          },
+          {
+            "d": "Thréonine"
+          }
+        ],
+        "answer": "b",
+        "explanation": "L'alanine n'est pas un acide aminé essentiel pour le corp humain."
+      }
+    }
+  },
+  {
+    "type": "mcq",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which is harder on the liver: 17α-alkylated oral anabolic steroids or creatine?",
+        "options": [
+          {
+            "a": "17α-alkylated oral anabolic steroids"
+          },
+          {
+            "b": "Creatine monohydrate"
+          }
+        ],
+        "answer": "a",
+        "explanation": "17α-alkylated oral anabolic steroids are associated with substantially greater liver stress than creatine."
+      },
+      "fr": {
+        "question": "Qu’est-ce qui sollicite davantage le foie : les stéroïdes oraux 17α-alkylés ou la créatine ?",
+        "options": [
+          {
+            "a": "Les stéroïdes anabolisants oraux 17α-alkylés"
+          },
+          {
+            "b": "La créatine monohydrate"
+          }
+        ],
+        "answer": "a",
+        "explanation": "Les stéroïdes anabolisants oraux 17α-alkylés présentent un risque hépatique bien supérieur à celui de la créatine."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which amino acid is missing from collagen, making it an incomplete protein?",
+        "answer": "Tryptophan",
+        "explanation": "Tryptophan is absent from collagen, so collagen does not provide all essential amino acids in sufficient amounts."
+      },
+      "fr": {
+        "question": "Quel acide aminé manque au collagène, ce qui en fait une protéine incomplète ?",
+        "answer": "Tryptophane",
+        "explanation": "Le tryptophane est absent du collagène ; celui-ci ne fournit donc pas tous les acides aminés essentiels en quantité suffisante."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which amino acid is a precursor to nitric oxide and is found in pump supplements?",
+        "answer": "Arginine",
+        "explanation": "Arginine can be converted into nitric oxide, which helps promote vasodilation and blood flow."
+      },
+      "fr": {
+        "question": "Quel acide aminé est un précurseur de l’oxyde nitrique et se trouve dans les suppléments de congestion ?",
+        "answer": "Arginine",
+        "explanation": "L’arginine peut être convertie en oxyde nitrique, ce qui favorise la vasodilatation et la circulation sanguine."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which pituitary hormone stimulates the adrenal cortex and promotes cortisol release?",
+        "answer": "Adrenocorticotropic hormone (ACTH)",
+        "explanation": "ACTH is released by the pituitary gland and stimulates the adrenal cortex to produce cortisol."
+      },
+      "fr": {
+        "question": "Quelle hormone hypophysaire stimule le cortex surrénalien et favorise la libération de cortisol ?",
+        "answer": "Hormone adrénocorticotrope (ACTH)",
+        "explanation": "L’ACTH est libérée par l’hypophyse et stimule le cortex surrénalien pour produire du cortisol."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "What is the main storage form of carbohydrates in the liver and muscles?",
+        "answer": "Glycogen",
+        "explanation": "Glycogen is the storage form of glucose in the liver and muscles. It is stored with a significant amount of water."
+      },
+      "fr": {
+        "question": "Quelle est la principale forme de stockage des glucides dans le foie et les muscles ?",
+        "answer": "Glycogène",
+        "explanation": "Le glycogène est la forme de stockage du glucose dans le foie et les muscles. Il est stocké avec une quantité importante d’eau."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "What is the main inhibitory neurotransmitter in the brain?",
+        "answer": "GABA",
+        "explanation": "GABA reduces neuronal excitability and is the main inhibitory neurotransmitter in the central nervous system."
+      },
+      "fr": {
+        "question": "Quel est le principal neurotransmetteur inhibiteur du cerveau ?",
+        "answer": "GABA",
+        "explanation": "Le GABA réduit l’excitabilité des neurones et constitue le principal neurotransmetteur inhibiteur du système nerveux central."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which peptide hormone signals long-term energy sufficiency to the brain?",
+        "answer": "Leptin",
+        "explanation": "Leptin is produced mainly by fat cells and informs the brain about long-term energy stores."
+      },
+      "fr": {
+        "question": "Quelle hormone peptidique signale au cerveau que les réserves énergétiques sont suffisantes ?",
+        "answer": "Leptine",
+        "explanation": "La leptine est principalement produite par les cellules adipeuses et informe le cerveau sur les réserves énergétiques à long terme."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which branch of the autonomic nervous system controls rest-and-digest functions?",
+        "answer": "Parasympathetic nervous system",
+        "explanation": "The parasympathetic nervous system supports rest, digestion and recovery while reducing general arousal."
+      },
+      "fr": {
+        "question": "Quelle branche du système nerveux autonome contrôle les fonctions de repos et de digestion ?",
+        "answer": "Système nerveux parasympathique",
+        "explanation": "Le système nerveux parasympathique favorise le repos, la digestion et la récupération tout en réduisant l’état d’alerte général."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which signaling molecule accumulates during repeated contractions and contributes to muscle burn?",
+        "answer": "Inorganic phosphate",
+        "explanation": "Inorganic phosphate accumulates when ATP is broken down and may contribute to the burning sensation during intense exercise."
+      },
+      "fr": {
+        "question": "Quelle molécule de signalisation s’accumule lors de contractions répétées et contribue à la brûlure musculaire ?",
+        "answer": "Phosphate inorganique",
+        "explanation": "Le phosphate inorganique s’accumule lors de la dégradation de l’ATP et peut contribuer à la sensation de brûlure pendant un effort intense."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which giant elastic protein contributes to passive muscle tension at long muscle lengths?",
+        "answer": "Titin",
+        "explanation": "Titin is a very large elastic protein that helps muscles resist stretching and generates passive tension."
+      },
+      "fr": {
+        "question": "Quelle protéine élastique géante contribue à la tension passive des muscles étirés ?",
+        "answer": "Titine",
+        "explanation": "La titine est une très grande protéine élastique qui aide les muscles à résister à l’étirement et génère une tension passive."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which hormone increases when the eyes detect darkness and is also sold as an over-the-counter supplement?",
+        "answer": "Melatonin",
+        "explanation": "Melatonin is released mainly in darkness and helps regulate the sleep–wake cycle."
+      },
+      "fr": {
+        "question": "Quelle hormone augmente lorsque les yeux perçoivent l’obscurité et existe comme complément alimentaire ?",
+        "answer": "Mélatonine",
+        "explanation": "La mélatonine est principalement libérée dans l’obscurité et contribue à réguler le cycle veille-sommeil."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which ketone body is the main circulating ketone during nutritional ketosis?",
+        "answer": "Beta-hydroxybutyrate",
+        "explanation": "Beta-hydroxybutyrate is produced by the liver and becomes the predominant circulating ketone body during nutritional ketosis."
+      },
+      "fr": {
+        "question": "Quel corps cétonique est principalement présent dans le sang lors d’une cétose nutritionnelle ?",
+        "answer": "Bêta-hydroxybutyrate",
+        "explanation": "Le bêta-hydroxybutyrate est produit par le foie et devient le principal corps cétonique circulant lors d’une cétose nutritionnelle."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which enzyme rapidly hydrolyzes ATP during muscle contraction?",
+        "answer": "ATPase",
+        "explanation": "ATPases split ATP into ADP and inorganic phosphate, releasing energy used during muscle contraction."
+      },
+      "fr": {
+        "question": "Quelle enzyme hydrolyse rapidement l’ATP pendant la contraction musculaire ?",
+        "answer": "ATPase",
+        "explanation": "Les ATPases décomposent l’ATP en ADP et en phosphate inorganique, libérant l’énergie utilisée lors de la contraction musculaire."
+      }
+    }
+  },
+  {
+    "type": "text",
+    "difficulty": 3,
+    "translation": {
+      "en": {
+        "question": "Which protein transports oxygen through the blood?",
+        "answer": "Hemoglobin",
+        "explanation": "Hemoglobin is a protein in red blood cells that binds oxygen in the lungs and transports it to tissues."
+      },
+      "fr": {
+        "question": "Quelle protéine transporte l’oxygène dans le sang ?",
+        "answer": "Hémoglobine",
+        "explanation": "L’hémoglobine est une protéine des globules rouges qui fixe l’oxygène dans les poumons et le transporte vers les tissus."
+      }
+    }
+  }
+]
