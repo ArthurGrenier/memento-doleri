@@ -1,6 +1,7 @@
 # Science Sport Quizz
 
-Available [here](https://arthurgrenier.github.io/memento-doleri/)
+Available 
+<a href="https://arthurgrenier.github.io/memento-doleri/" target="_blank">here!</a>
 
 ## React + Vite
 
